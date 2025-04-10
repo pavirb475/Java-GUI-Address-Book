@@ -1,0 +1,2 @@
+This project is a desktop-based Address Book application developed using Java and Swing for the GUI. It allows users to add, edit, delete, and search contact information such as name, phone number, email, and address. The application features a user-friendly graphical interface with buttons, text fields, and tables for efficient data management. It demonstrates core concepts of object-oriented programming, event handling, and file handling (if included), making it a practical tool for learning and showcasing Java GUI development.
+
